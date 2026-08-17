@@ -17,7 +17,7 @@ O projeto implementa desde operações elementares de manipulação de amplitude
 
 ---
 
-## 💻 Tecnologias
+## Tecnologias
 
 - **Linguagem em C
 - **Gerenciamento Dinâmico de Memória** (`stdlib.h` - `malloc`/`free`)
